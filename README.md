@@ -1,21 +1,17 @@
 # LiveViewComponents
 
-**TODO: Add description**
+A collection of re-usable Phoenix LiveViewComponents for rapid application development.
 
-## Installation
+## Components to build
+For now I am going to use https://blueprintjs.com/ as a guide for what components to build
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `live_view_components` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:live_view_components, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/live_view_components](https://hexdocs.pm/live_view_components).
-
+- [ ] Breadcrumbs
+- [ ] Button
+- [ ] Button Group
+- [ ] Card
+- [ ] Divider
+- [ ] Dialog
+- [ ] Drawer
+- [ ] Popover
+- [ ] Toast
+- [ ] Tooltip
